@@ -1,0 +1,3 @@
+# dailyfresh
+天天生鲜超市销售网站
+本网站采用python的django框架,注册时采用了celery进行邮件的发送,采用redis当做消息队列,网站中图片的保存采用fastdfs分布式图片存储系统.
