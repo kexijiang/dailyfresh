@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="49.234.214.32" uuid="ab96411d-389f-4a81-8333-275ffabb7cb9">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>49.234.214.32</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://49.234.214.32:3306/dailyfresh?serverTimezone=GMT</jdbc-url>
+    </data-source>
+  </component>
+</project>
